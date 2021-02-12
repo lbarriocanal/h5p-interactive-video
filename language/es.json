@@ -106,7 +106,7 @@
                   },
                   {
                     "label": "Etiqueta",
-                    "description": "Etiqueta que aparece junto al icono de interacción."
+                    "description": "Etiqueta que aparece junto al icono de interacción.
                   },
                   {},
                   {},
@@ -228,7 +228,7 @@
           ]
         },
         {
-          "label": "Resúmen del ejercicio",
+          "label": "Resumen del ejercicio",
           "fields": [
             {},
             {
